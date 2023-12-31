@@ -1,4 +1,4 @@
-# ImageToFourierSeries
+# FourierImages
 Draw images as Fourier series
 
 # How it works
